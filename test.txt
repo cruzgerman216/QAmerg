@@ -1,6 +1,9 @@
+inside feature 2
+
+In side insert!
+features-test2
 
 inside dev 2
 inside feature branch 1
 In side insert!
 features-test1
-
